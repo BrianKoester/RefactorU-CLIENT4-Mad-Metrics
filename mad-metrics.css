@@ -1,0 +1,17 @@
+body {
+  width: 2000px;
+  height: 2000px;
+  background-color: wheat;
+}
+
+#button, #signup {
+	background-color: darkseagreen;
+	border-radius: 10px;
+	color: white;
+	padding: 7px 10px 7px 10px;
+	font-size: 20px;
+}
+
+#button {
+	position: fixed;
+}
