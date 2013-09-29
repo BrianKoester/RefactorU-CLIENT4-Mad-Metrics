@@ -1,0 +1,21 @@
+body {
+  width: 2000px;
+  height: 2200px;
+  background-color: wheat;
+}
+
+#section1, #section2, #section3 {
+	min-height:200px;
+}
+
+#button, #signup {
+	background-color: darkseagreen;
+	border-radius: 10px;
+	color: white;
+	padding: 7px 10px 7px 10px;
+	font-size: 20px;
+}
+
+#button {
+	position: fixed;
+}
