@@ -71,6 +71,7 @@ var SignUpTime = 0;
   		realPageTime = (PageTime - startTime)/1000;
 	});
 
+<<<<<<< HEAD
 //time spent in each section of page
 //function is executed at the correct time - when moving between sections - but error "object has not method apply"
 
@@ -106,6 +107,8 @@ var SignUpTime = 0;
 //$('#section1').on('mouseleave',(timeSpentSection('#section1')));
 //console.log(timeSpentSection('#section1'));
 //console.log(timeSpentSection('#section2'));
+=======
+>>>>>>> 738ba4c999bc2d74edce43f54920e5178af83c18
 
 
 	//display metrics info
@@ -114,7 +117,11 @@ var SignUpTime = 0;
 		"Total distance scrolled: " + grandTotalScrolled + " pixels" + "\n" +
 		"Time before clicking Sign Up: " + realSignUpTime + " secs" + "\n" +
 		"Time spent on page: " + realPageTime + " secs" + "\n" +
+<<<<<<< HEAD
 		"Time spent on each section of the page: - still working on this");
+=======
+		"Time spent on each section of the page: ");
+>>>>>>> 738ba4c999bc2d74edce43f54920e5178af83c18
 	});
 
 });

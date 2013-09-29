@@ -1,5 +1,6 @@
 body {
   width: 2000px;
+<<<<<<< HEAD
   height: 2200px;
   background-color: wheat;
 }
@@ -8,6 +9,12 @@ body {
 	min-height:200px;
 }
 
+=======
+  height: 2000px;
+  background-color: wheat;
+}
+
+>>>>>>> 738ba4c999bc2d74edce43f54920e5178af83c18
 #button, #signup {
 	background-color: darkseagreen;
 	border-radius: 10px;
